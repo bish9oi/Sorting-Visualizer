@@ -30,7 +30,7 @@ cd sorting-visualizer
 - You can run the project using **Live Server** in VS Code
 - Or simply open the file in a browser:
   ```bash
-  http://127.0.0.1:5500/index.html
+  https://sorting-visualizerdsa.netlify.app/
   ```
 
 ### Step 3: Use the Sorting Visualizer
